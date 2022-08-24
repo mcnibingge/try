@@ -1,0 +1,9 @@
+.idea/
+tests/
+data/
+logs/
+models/
+./*.py
+*.egg-info/
+dist/
+config/

@@ -1,0 +1,26 @@
+{
+    "ETX00000": {
+        "attributes": {
+            "显示": {
+                "time": "近日",
+                "participant-subject": "香港公司注册处网站",
+                "action": "显示",
+                "participant-object": "字节跳动（香港）有限公司已更名为抖音集团（香港）有限公司"
+            },
+            "已更名为": {
+                "participant-subject": "字节跳动（香港）有限公司",
+                "action": "已更名为",
+                "participant-object": "抖音集团（香港）有限公司"
+            }
+        }
+    },
+    "ETX00001": {
+        "attributes": {
+            "有了": {
+                "participant-subject": "新的《大侦探》",
+                "participant-object": "合议庭的设置",
+                "action": "有了"
+            }
+        }
+    }
+}
